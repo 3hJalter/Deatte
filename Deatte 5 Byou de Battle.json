@@ -1,5 +1,5 @@
 {
-  "title": "Deatte 5 Byou de Battle",
+  "title": "Deatte 5 Byou de Battle (Raw)",
   "description": "Raw of Battle in 5 second after meeting, uploaded by Jalter",
   "artist": "Harawata Saizou",
   "author": "Harawata Saizou",
@@ -11,6 +11,82 @@
       "last_updated": "1647685689",
       "groups": {
         "JA Team": "/proxy/api/imgur/chapter/PBHdHri"
+      }
+    },
+    "126": {
+      "title": "126",
+      "volume": "15",
+      "last_updated": "1647685826",
+      "groups": {
+        "JA Team": "/proxy/api/imgur/chapter/EEKUNJX"
+      }
+    },
+    "127": {
+      "title": "127",
+      "volume": "15",
+      "last_updated": "1647685847",
+      "groups": {
+        "JA Team": "/proxy/api/imgur/chapter/QAN2T7I"
+      }
+    },
+    "128": {
+      "title": "128",
+      "volume": "15",
+      "last_updated": "1647685868",
+      "groups": {
+        "JA Team": [
+          "/proxy/api/imgur/chapter/5jZKto1"
+        ]
+      }
+    },
+    "129": {
+      "title": "129",
+      "volume": "15",
+      "last_updated": "1647685890",
+      "groups": {
+        "JA Team": [
+          "/proxy/api/imgur/chapter/TsKhmvv"
+        ]
+      }
+    },
+    "130": {
+      "title": "130",
+      "volume": "15",
+      "last_updated": "1647685900",
+      "groups": {
+        "JA Team": [
+          "/proxy/api/imgur/chapter/9UU1zIb"
+        ]
+      }
+    },
+    "131": {
+      "title": "131",
+      "volume": "15",
+      "last_updated": "1647685910",
+      "groups": {
+        "JA Team": [
+          "/proxy/api/imgur/chapter/qPaMV8e"
+        ]
+      }
+    },
+    "132": {
+      "title": "132",
+      "volume": "15",
+      "last_updated": "1647685924",
+      "groups": {
+        "JA Team": [
+          "/proxy/api/imgur/chapter/dhhawgi"
+        ]
+      }
+    },
+    "133": {
+      "title": "133",
+      "volume": "15",
+      "last_updated": "1647685929",
+      "groups": {
+        "JA Team": [
+          "/proxy/api/imgur/chapter/EL2NmrJ"
+        ]
       }
     }
   }
