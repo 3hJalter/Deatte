@@ -58,8 +58,7 @@
       "volume": "15",
       "last_updated": "1647693996",
       "groups": {
-        "JA Team": 
-          "/proxy/api/imgur/chapter/qPaMV8e"
+        "JA Team": "/proxy/api/imgur/chapter/qPaMV8e"
       }
     },
     "132": {
@@ -67,8 +66,7 @@
       "volume": "15",
       "last_updated": "1647694009",
       "groups": {
-        "JA Team": 
-          "/proxy/api/imgur/chapter/dhhawgi"
+        "JA Team": "/proxy/api/imgur/chapter/dhhawgi"
       }
     },
     "133": {
@@ -76,8 +74,15 @@
       "volume": "15",
       "last_updated": "1647694027",
       "groups": {
-        "JA Team": 
-          "/proxy/api/imgur/chapter/EL2NmrJ"
+        "JA Team": "/proxy/api/imgur/chapter/EL2NmrJ"
+      }
+    },
+    "134": {
+      "title": "134",
+      "volume": "15",
+      "last_updated": "1648716700",
+      "groups": {
+        "JA Team": "/proxy/api/imgur/chapter/FpWHVUI"
       }
     }
   }
